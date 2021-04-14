@@ -1,0 +1,69 @@
+﻿body {
+    background-color: azure;
+}
+
+#stokDiv {
+    width: 35%;
+    height: 250px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.stokBaslik {
+    margin: 35px 0 0 35%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.stokTablo {
+    width: 270px;
+    margin: -10px 0 0 20%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.txt {
+    border-radius: 25px;
+    width: 95%;
+}
+
+.btn {
+    width: 40%;
+    background-color: darkturquoise;
+    color: white;
+    border-radius: 25px;
+    margin: 0 0 0 6px
+}
+
+    .btn:hover {
+        width: 125px;
+        background-color: azure;
+        color: black;
+        cursor: pointer;
+    }
+
+#satisDiv {
+    width: 35%;
+    height: 440px;
+    margin: 0 0 0 37%;
+    background-color: red;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.satisYazi {
+    margin: 35px 0 0 35%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.list {
+    Height: 322px;
+    Width: 200px;
+    margin: 0 0 0 37%;
+}
